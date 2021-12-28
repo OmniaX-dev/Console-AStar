@@ -6,6 +6,7 @@ It has the possibility to enable/disable diagonal movement, and it also has thre
 * Euclidean
 * Diagonal
 These can be changed by using the `set_heuristic_distance_type(...)` method of the **Pathfinding** class, by passing either of this constants: *MANHATTAN*, *EUCLIDEAN* or *DIAGONAL*.
+<br />
 
 ![](SCREENSHOT/astar_default_matrix.png)
 ![](SCREENSHOT/astar_path_diag.png)
